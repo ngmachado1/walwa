@@ -1,0 +1,62 @@
+[
+    {
+        
+        "dataProduct":
+        [
+            {
+                "id": 123,
+                "imagen": "images/TIENDA/harina-arroz.png",
+                "nombre": "Harina de Arroz",
+                "descripcion": "Harina de Arroz",
+                "precio": 130.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 212,
+                "imagen": "images/TIENDA/LATA-SCOTISH@2x.png",
+                "nombre": "Scottish Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 312,
+                "imagen": "images/TIENDA/cream@2x.png",
+                "nombre": "Cream Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 412,
+                "imagen": "images/TIENDA/porter@2x.png",
+                "nombre": "English Porter",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 512,
+                "imagen": "images/TIENDA/pale@2x.png",
+                "nombre": "Pale Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 612,
+                "imagen": "images/TIENDA/aipa@2x.png",
+                "nombre": "American India Pale Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            }
+        ]
+    }   
+]

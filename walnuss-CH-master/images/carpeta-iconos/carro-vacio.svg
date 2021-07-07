@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="48.962" viewBox="0 0 98 48.962">
+  <g id="Grupo_23" data-name="Grupo 23" transform="translate(-5351.19 56.37)">
+    <g id="Grupo_15" data-name="Grupo 15" transform="translate(5351.19 -56.37)">
+      <g id="Grupo_11" data-name="Grupo 11" transform="translate(0 0)">
+        <path id="Shape" d="M94.733,21.758c-1.21-.171-91.467,0-91.467,0A3.267,3.267,0,0,0,0,25.025V38.092a3.267,3.267,0,0,0,3.267,3.267v9.686A3.267,3.267,0,0,0,0,54.311V67.377a3.267,3.267,0,0,0,3.267,3.267H94.733A3.267,3.267,0,0,0,98,67.377V54.311a3.267,3.267,0,0,0-3.267-3.267V41.358A3.267,3.267,0,0,0,98,38.092V25.025a3.267,3.267,0,0,0-3.267-3.267Zm-88.2,19.6H32.667v9.686H6.533Zm55.533,0v9.686H35.933V41.358ZM94.733,67.377H3.267V54.311H94.733ZM91.467,51.044H65.333V41.358H91.467ZM3.267,38.092V25.025H94.733V38.092Z" transform="translate(0 -21.682)"/>
+        <circle id="Oval" cx="1.753" cy="1.753" r="1.753" transform="translate(7.01 8.085)"/>
+        <circle id="Oval-2" data-name="Oval" cx="1.753" cy="1.753" r="1.753" transform="translate(89.238 8.085)"/>
+        <circle id="Oval-3" data-name="Oval" cx="2.649" cy="2.649" r="2.649" transform="translate(85.56 35.572)"/>
+        <path id="Shape-2" data-name="Shape" d="M17.763,44h-7.01a1.753,1.753,0,1,0,0,3.505h7.01a1.753,1.753,0,1,0,0-3.505Z" transform="translate(6.347 -21.36)"/>
+        <path id="Shape-3" data-name="Shape" d="M28.753,47.505h7.01a1.753,1.753,0,1,0,0-3.505h-7.01a1.753,1.753,0,1,0,0,3.505Z" transform="translate(16.743 -21.36)"/>
+        <path id="Shape-4" data-name="Shape" d="M48.753,47.505h7.01a1.753,1.753,0,1,0,0-3.505h-7.01a1.753,1.753,0,1,0,0,3.505Z" transform="translate(28.217 -21.36)"/>
+        <circle id="Oval-4" data-name="Oval" cx="2.649" cy="2.649" r="2.649" transform="translate(7.947 35.572)"/>
+      </g>
+    </g>
+  </g>
+</svg>

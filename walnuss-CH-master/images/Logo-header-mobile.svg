@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="101" viewBox="0 0 101 101">
+  <g id="Grupo_4" data-name="Grupo 4" transform="translate(-248 -425)">
+    <g id="Elipse_1" data-name="Elipse 1" transform="translate(248 425)" fill="#87ad88" stroke="#87ad88" stroke-width="1">
+      <circle cx="50.5" cy="50.5" r="50.5" stroke="none"/>
+      <circle cx="50.5" cy="50.5" r="50" fill="none"/>
+    </g>
+    <text id="WALWA" transform="translate(257 481.051)" fill="#fff" font-size="38" font-family="ZenLoop-Regular, Zen Loop"><tspan x="0" y="0">WALWA</tspan></text>
+    <text id="Almacen_Natural" data-name="Almacen Natural" transform="translate(263 497)" fill="#fff" font-size="10" font-family="Lato-Regular, Lato"><tspan x="0" y="0">Almacen Natural</tspan></text>
+  </g>
+</svg>

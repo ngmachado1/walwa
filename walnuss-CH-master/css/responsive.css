@@ -1,0 +1,197 @@
+@media(max-width: 1300px) {
+
+    ul.link-items{
+        width: 70%;
+    }
+    .banner{
+        background-position: 0px 50px;
+    }
+    .presentacion h5{
+        font-size: 2.4em;
+    }
+
+    .row-tienda{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .articulo{
+        width: 33%;
+        padding: 5% 0px;
+        min-width: 200px;
+        overflow-x: hidden;
+    }
+}
+
+
+@media(max-width: 768px){
+
+    body{
+        overflow-x: hidden;
+        background-color: #1d1d1d;
+        font-size: 14px;
+    }
+    nav{
+        display: inline;
+        position: FIXED;
+        height: 90px;
+    }
+    nav.active{
+        height: 60vh;
+        transition: 0.5s ease;
+    }
+    picture{
+        padding-left: 40%;
+    }
+    ul.link-items{
+        flex-direction: column;
+        height: 20vh;
+        text-align: center;
+        width: 100%;
+        padding-top: 180px;
+        transform: translateX(100%);
+        transition: 0.5s ease-in;
+    }
+    ul.link-items li{
+        border-bottom: #d40000 1px solid;
+        width: 80%;
+        margin-left: 10%;
+        padding: 15px;
+        opacity: 0;
+    }
+    a.mobile{
+        display:block
+    }
+    p.contact{
+        color: black;
+    }
+    ul.link-items a{
+        color: black;
+    }
+    .carrito{
+        display: block;
+        position: absolute;
+        top: 30px;
+        right: 40px;
+        cursor: pointer;
+    }
+    .menu{
+        display: block;
+        position: absolute;
+        top: 30px;
+        left: 40px;
+        cursor: pointer;
+    }
+
+    ul.link-items-active{
+        transform: translateX(0%);
+    }
+    .contacto-active{
+        transform: translateX(0%);
+    }
+    @keyframes navLinkFade {
+        from{
+            opacity: 0;
+            transform: translateX(50px);
+        }
+        to{
+            opacity: 1;
+            transform: translateX(0px);
+        }
+    }
+
+    .toggle .linea1{
+        transform: rotate(-45deg) translate(-4px,5px);
+        transition: 0.5s ease;
+
+    }
+    .toggle .linea2{
+        opacity: 0;
+        transition: 0.3s ease;
+
+    }
+    .toggle .linea3{
+        transform: rotate(45deg) translate(-4px,-5px);
+        transition: 0.5s ease;
+
+    }
+    .banner{
+        background-position: 0px 90px;
+    }
+        /*grilla*/
+    .contenedor{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+    }
+    .hijo{
+        background-color: #1d1d1d;
+        border: solid whitesmoke 0.5px;
+    }
+    .uno{
+        grid-row: 1/7;
+        grid-column: 1/3;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        
+    }
+    .dos{
+        grid-row: 7/9;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .tres{
+        grid-row: 7/11;
+    }
+    .cuatro{
+        grid-row: 9/11;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .seis{
+        grid-column: 1/3;
+        grid-row: 11/14;
+    }
+    .titulo-tienda {
+        padding-top: 120px;
+    }
+    .row-tienda{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .articulo{
+        width: 90%;
+        padding: 5% 0px;
+        min-width: 200px;
+        overflow-x: hidden;
+    }
+    .presentacion{
+        padding: 10% 5%;
+    }
+    .presentacion h5{
+        font-size: 2.3em;
+    }
+    footer{
+        flex-direction: column;
+    }
+    .contactenos{
+        width:70%;
+        padding-bottom: 5%;
+        padding-top: 5%;}
+        
+    .redesSociales{
+        width: 70%;
+        padding-bottom: 5%;
+    }
+    @media screen and (max-height: 450px) {
+        .cart {padding-top: 15px;}
+        .cart a {font-size: 18px;}
+        .gif{
+            margin: auto;
+        }
+      }
+}
